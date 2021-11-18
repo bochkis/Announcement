@@ -1,0 +1,37 @@
+#root{
+  display: flex;
+  justify-content: center;
+  background: url(../images/absolutvision-82TpEld0_e4-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 800px;
+}
+
+.App {
+  width: 800px;
+  
+}
+
+
+
+
+
+.announcement{
+  display: flex;
+  padding: 15px;
+  border: 2px solid red;
+  margin-top: 15px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+}
+
+.my_input{
+  border: 2px solid brown;
+  width: 98%;
+}
+
+.my_input_edit{
+  border: 2px solid brown;
+  width: 100%;
+}
